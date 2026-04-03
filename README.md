@@ -2,7 +2,7 @@
 
 A Python simulation of Donald Michie's 1961 reinforcement-learning system for tic-tac-toe, built for CS 580 Machine Learning (Spring 2026).
 
-Note: I read through all the code to ensure the logic is correct. I think there shouldn't be any bugs left...
+### Note: I read through all the code to ensure the logic is correct. I think there shouldn't be any bugs left...
 
 ## What it does
 
