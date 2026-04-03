@@ -2,6 +2,8 @@
 
 A Python simulation of Donald Michie's 1961 reinforcement-learning system for tic-tac-toe, built for CS 580 Machine Learning (Spring 2026).
 
+Note: I read through all the code to ensure the logic is correct.
+
 ## What it does
 
 MENACE learns to play tic-tac-toe by adjusting "bead counts" in virtual drawers — one drawer per unique board state. Moves are chosen by weighted random sampling, and after each game the beads are updated: +3 for a win, +1 for a draw, -1 for a loss. Over thousands of games against a random opponent, MENACE converges toward strong play without any hardcoded strategy.
